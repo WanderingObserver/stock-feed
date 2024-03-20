@@ -1,3 +1,6 @@
+> This repo is no longer supported.
+> I use a different API for stock research now. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
